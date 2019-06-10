@@ -1,5 +1,6 @@
 .DS_Store
-node_modules
+node_server/node_modules
+vue_twitter/node_modules
 /dist
 
 # local env files
